@@ -85,7 +85,7 @@ mode.outline.color = #3a505e
 # EDITOR - DETAILS
 
 # foreground and background colors
-editor.fgcolor = #839496
+editor.fgcolor = #93a1a1
 editor.bgcolor = #002b36
 
 editor.gradient.top = #485e65
